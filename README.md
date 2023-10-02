@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-Olá, mundo! Este é o meu GitHub.
+Olá,
 
 ## Sobre mim
 
