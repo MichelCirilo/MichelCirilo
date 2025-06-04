@@ -3,7 +3,7 @@
 [![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)](https://github.com/MichelCirilo)
 
 <h1 align="center">Michel Cirilo</h1>
-<h3 align="center">Analista de Dados</h3>
+<h3 align="center">Consultor Qlik - Especialista em Negócios</h3>
 
 ### Sobre mim:
 
